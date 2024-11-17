@@ -19,8 +19,8 @@
 
 ## 开源数据集
 我们开源了中药饮片数据集和中成药数据集
-- [中药饮片数据集](https://github.com/liucann/CPMI-ChatGLM)
-- [中成药数据集](https://github.com/liucann/CPMI-ChatGLM)
+- [中药饮片数据集](https://github.com/hujili007/TensorflowChineseTraditionalCulture/tree/main/2-%E5%9F%BA%E4%BA%8ERestNet%E4%B8%AD%E8%8D%AF%E9%A5%AE%E7%89%87%E8%AF%86%E5%88%AB/data/tcmimage)
+- [中成药数据集](https://github.com/hujili007/TensorflowChineseTraditionalCulture/blob/main/6-%E5%9F%BA%E4%BA%8EGemma%E5%BE%AE%E8%B0%83%E7%9A%84%E4%B8%AD%E6%88%90%E8%8D%AF%E9%97%AE%E7%AD%94/data/cpmi_dataset.json)
 
 ## 感谢
 
