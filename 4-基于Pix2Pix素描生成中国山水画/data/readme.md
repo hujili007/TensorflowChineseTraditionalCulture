@@ -1,0 +1,21 @@
+数据集下载链接：
+https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset
+
+colab上设置的地址urls：
+URLs 
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Harvard/Harvard-1.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Metropolitan/Metropolitan-1.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Metropolitan/Metropolitan-2.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Princeton/Princeton-1.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Princeton/Princeton-2.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Smithsonian/Smithsonian-2.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Smithsonian/Smithsonian-3.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Smithsonian/Smithsonian-4.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Smithsonian/Smithsonian-5.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Smithsonian/Smithsonian-6.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Smithsonian/Smithsonian-7.zip',
+    'https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset/raw/main/All-Paintings/Smithsonian/Smithsonian-1.zip’
+HED_URLs   
+    'https://github.com/Luxi-Zhao/sketch-to-Chinese-landscape-painting-data/raw/master/datasets/hed/hed.z01',
+    'https://github.com/Luxi-Zhao/sketch-to-Chinese-landscape-painting-data/raw/master/datasets/hed/hed.z02',
+    'https://github.com/Luxi-Zhao/sketch-to-Chinese-landscape-painting-data/raw/master/datasets/hed/hed.zip'
